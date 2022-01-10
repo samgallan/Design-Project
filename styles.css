@@ -1,0 +1,123 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.nav {
+    background-color: black;
+    border: 2px solid black;
+    width: 200px;
+    height: 900px;
+    position: fixed;
+}
+.home {
+    color: white;
+    font-family: MS Gothic;
+    letter-spacing: 2px;
+    margin-top: 100px;
+}
+.games {
+    color: white;
+    font-family: MS Gothic;
+    letter-spacing: 2px;
+}
+.characters {
+    color: white;
+    font-family: MS Gothic;
+    letter-spacing: 2px;
+}
+.walkthrough {
+    color: white;
+    font-family: MS Gothic;
+    letter-spacing: 2px;
+}
+.story {
+    color: white;
+    font-family: MS Gothic;
+    letter-spacing: 2px;
+}
+.aboutme {
+    color: white;
+    font-family: MS Gothic;
+    letter-spacing: 2px;
+    padding-top: 300px;
+}
+.signup {
+    display: inline-block;
+    color: white;
+    padding-left: 1400px;
+    font-family: Century Gothic;
+}
+.login {
+    display: inline-block;
+    color: rgb(70, 53, 53);
+    padding-left: 1400px;
+    font-family: Century Gothic;
+}
+h1 {
+    color: white;
+}
+.darklogo {
+    width: 150px;
+    padding-left: 10px;
+}
+.lightlogo {
+    width: 1000px;
+    padding-left: 550px;
+    padding-top: 0px;
+}
+body {
+    background-color: rgb(102, 102, 102);
+}
+h1 {
+    font-family: Century Gothic;
+}
+p {
+    font-family: Century Gothic;
+}
+.sign {
+    padding-left: 50px;
+    padding-top: 50px;
+}
+label {
+    font-family: Century Gothic;
+}
+.intro {
+    text-align: center;
+    padding-left: 250px;
+}
+.introduction {
+    width: 300px;
+    margin-left: 375px;
+}
+.gamecharacters {
+    width: 300px;
+    margin-left: 630px;
+}
+.abouttitle {
+    margin-left: 700px;
+}
+.about {
+    width: 300px;
+    margin-left: 375px;
+}
+.aboutdiv {
+    text-align: center;
+    padding-left: 250px;
+}
+.gamestitle {
+    margin-left: 700px;
+}
+.storytitle {
+    margin-left: 700px;
+}
+.walkthroughtitle {
+    margin-left: 700px;
+}
+.characterstitle {
+    margin-left: 700px;
+}
+ul {
+    margin-left: 300px;
+    font-family: Century Gothic;
+}
